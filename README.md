@@ -1,9 +1,4 @@
-Certainly! Here is a simple README file for the functional calculator Python program you requested:
-
 ***
-
-# Simple Functional Calculator in Python
-
 ## Overview
 This is a beginner-friendly command-line calculator program written in Python. It performs basic arithmetic operations: addition, subtraction, multiplication, and division. The program interacts with the user through the console, allowing them to select an operation, input numbers, and get the result. It also handles invalid inputs gracefully.
 
@@ -55,4 +50,8 @@ Thank you for using the calculator. Goodbye!
 This project is open for learning and modification. Feel free to adapt and expand it as you improve your Python skills!
 
 ***
-If you want, I can help format it for Markdown or any other style you prefer.
+
+
+
+
+
